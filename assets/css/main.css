@@ -268,7 +268,7 @@ img {
 }
 
 .footer {
-  background-color: #444;
+  background-color: #AAA7AD;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -301,7 +301,7 @@ img {
   padding: 10px;
   -webkit-transition: all ease-in-out 0.3s;
   transition: all ease-in-out 0.3s;
-  color: #222;
+  color: #AAA7AD;
 }
 
 .project-title {
@@ -334,7 +334,7 @@ img {
 }
 
 .project-tag-item {
-  background-color: #444;
+  background-color: #AAA7AD;
   border-radius: 3px;
   padding: 5px;
   color: #fff;
