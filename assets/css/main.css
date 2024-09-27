@@ -11,7 +11,7 @@ img {
 
 .head {
 
-  color: #AAA7AD;
+  color: #FFF;
   min-height: 100vh;
 
   display: -webkit-box;
@@ -82,7 +82,7 @@ img {
 .head-punchline {
   font-family: 'PT Sans', Arial, Helvetica, sans-serif;
   text-align: center;
-  color: #AAA7AD;
+  color: #FFF;
   margin-top: 10px;
   font-size: 20px;
   font-size: 1.25rem;
@@ -211,15 +211,15 @@ img {
 }
 
 .section-wrapper:nth-child(odd) .section-heading {
-  color: #AAA7AD;
+  color: #FFF;
 }
 
 .section-wrapper:nth-child(odd) .skills-subsection {
-  color: #AAA7AD;
+  color: #FFF;
 }
 
 .section-wrapper:nth-child(odd) .paragraph-text {
-  color: #AAA7AD;
+  color: #FFF;
 }
 
 .paragraph-text {
@@ -268,7 +268,7 @@ img {
 }
 
 .footer {
-  background-color: #AAA7AD;
+  background-color: #FFF;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -279,7 +279,7 @@ img {
       -ms-flex-align: center;
           align-items: center;
   min-height: 35px;
-  color: ##AAA7AD;
+  color: #FFF;
   font-family: 'PT Sans', Arial, Helvetica, sans-serif;
 
   background: url(../images/background.png);
@@ -301,7 +301,7 @@ img {
   padding: 10px;
   -webkit-transition: all ease-in-out 0.3s;
   transition: all ease-in-out 0.3s;
-  color: #AAA7AD;
+  color: #FFF;
 }
 
 .project-title {
@@ -334,7 +334,7 @@ img {
 }
 
 .project-tag-item {
-  background-color: #AAA7AD;
+  background-color:#FFF;
   border-radius: 3px;
   padding: 5px;
   color: #fff;
