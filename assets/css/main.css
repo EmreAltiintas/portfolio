@@ -402,7 +402,7 @@ img {
 .profile-pic:hover {
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
-  box-shadow: 0 4px 20px 0 rgba(0, 0, 0, 0.5); /* Justeret for mere tydelighed */
+  box-shadow: 0 0px 30px 10px rgba(0, 0, 0, 0.8); /* Markant skygge */
 }
 
 
