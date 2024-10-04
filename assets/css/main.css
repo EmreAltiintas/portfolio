@@ -6,8 +6,9 @@ body {
 
 
 .weeks-h1 {
-	text-align: center;
-	margin: 20px 0;
+    text-align: center;
+    width: 100%; /* Giver mulighed for centrering i containeren */
+    margin: 20px 0;
 }
 
 .goals {
