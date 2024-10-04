@@ -4,6 +4,14 @@ body {
   font-size: 16px;
 }
 
+
+
+
+.goals {
+    text-align: center; /* Justerer målene og opnåelser til venstre, så de er lettere at læse */
+    margin: 20px 0; /* Tilføjer afstand mellem sektionerne */
+}
+
 img {
   max-width: 100%;
   max-height: 100%;
