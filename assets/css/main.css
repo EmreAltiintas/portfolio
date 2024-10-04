@@ -5,7 +5,10 @@ body {
 }
 
 
-
+.weeks-h1 {
+	text-align: center;
+	margin: 20px 0;
+}
 
 .goals {
     text-align: center; /* Justerer målene og opnåelser til venstre, så de er lettere at læse */
