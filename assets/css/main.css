@@ -13,6 +13,7 @@ body {
 
 .goals {
     text-align: left; /* Justerer målene og opnåelser til venstre, så de er lettere at læse */
+	width: 100%;
     margin: 20px 0; /* Tilføjer afstand mellem sektionerne */
 }
 
