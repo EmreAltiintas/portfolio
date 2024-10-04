@@ -163,6 +163,7 @@ img {
 }
 
 .section {
+
   max-width: 768px;
   margin: 60px auto;
   padding: 20px 0;
@@ -211,7 +212,7 @@ img {
 }
 
 .section-wrapper:nth-child(odd) .section-heading {
-  color: #FFF;
+  color: #696969;
 }
 
 .section-wrapper:nth-child(odd) .skills-subsection {
