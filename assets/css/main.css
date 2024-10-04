@@ -402,8 +402,9 @@ img {
 .profile-pic:hover {
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
-box-shadow: 0 0px 16px 0 rgba(0, 0, 0, 0.3);
+  box-shadow: 0 4px 20px 0 rgba(0, 0, 0, 0.5); /* Justeret for mere tydelighed */
 }
+
 
 .profile-pic-div {
   display: -webkit-box;
